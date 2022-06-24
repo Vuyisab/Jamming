@@ -1,7 +1,7 @@
 let accessToken;
 
 const clientId = "74e41b45ae6b4dc3846affe28ef36030";
-const redirectUri = "Vuyisa-Baza-Jamming.surge.sh";
+const redirectUri = "https://voluble-cajeta-f0759f.netlify.app/";
 
 const Spotify = {
   getAccessToken() {
